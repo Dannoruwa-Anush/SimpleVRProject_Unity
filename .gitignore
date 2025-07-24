@@ -1,0 +1,95 @@
+# ========== Unity Generated ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ========== OS-Specific ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== IDEs & Editors ==========
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+*.unityproj
+
+# Rider
+*.sln.iml
+
+# VS Code workspace file
+*.code-workspace
+
+# ========== Unity Asset Store Tools ==========
+*.unitypackage
+
+# ========== Build Artifacts ==========
+*.apk
+*.aab
+*.xcarchive
+*.ipa
+*.app
+*.exe
+*.dll
+*.mdb
+*.pdb
+
+# ========== Addressables & AssetBundles ==========
+ServerData/
+*.bundle
+*.bin
+*.hash
+*.json
+*.addressable
+
+# ========== Unity Cloud Build ==========
+.cloud/
+
+# ========== Crash & Debug Logs ==========
+sysinfo.txt
+error.log
+
+# ========== JetBrains Rider ==========
+.idea/
+*.DotSettings.user
+
+# ========== Local Cache ==========
+.cache/
+
+# ========== Collaborate & Plastic SCM ==========
+.collabignore
+.collab/
+.plastic/
+ignore.conf
+hidden_changes/
+
+# ========== Unity Timeline ==========
+*.playable
+
+# ========== Unity Shader Cache ==========
+*.shadercache
+
+# ========== Temporary or Backup Files ==========
+*.bak
+*.tmp
+*.old
+*.orig
+
+# ========== Do Not Ignore ==========
+!Assets/
+!ProjectSettings/
+!Packages/
+!*.asmdef
